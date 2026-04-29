@@ -1,0 +1,112 @@
+<Meta name="Worksheet7">
+  <messagelist>
+    <message status="normal" label="build" groupid="400002" scope="Worksheet7" id="731650458" classid="MessageObj"><![CDATA[Begin compiling with PSCAD Version Free]]></message>
+    <message status="warning" label="build" groupid="203002" id="1379726040" classid="CmpNavigator">
+      <User scope="Worksheet7" name="master:consti" status="warning" link="952817008" /><![CDATA[Parameter 'Value' is of type Integer but its value -1 is not; value will be forced to Integer type.]]></message>
+    <message status="warning" label="build" groupid="206502" id="603737676" classid="CmpNavigator">
+      <User scope="Worksheet7" name="master:select" status="warning" link="73334038" /><![CDATA[Signal 'RT_65' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="883338331" classid="CmpNavigator">
+      <User scope="Worksheet7" name="master:wound_rotor" status="warning" link="1009416768" /><![CDATA[Signal 'RT_50' type conversion may lose accuracy at connection 'SW']]></message>
+    <message status="warning" label="build" groupid="206502" id="140869229" classid="CmpNavigator">
+      <User scope="Worksheet7" name="master:inv" status="warning" link="1608125750" /><![CDATA[Signal 'G3' type conversion may lose accuracy at connection 'IN']]></message>
+    <message status="warning" label="build" groupid="206502" id="105614540" classid="CmpNavigator">
+      <User scope="Worksheet7" name="master:inv" status="warning" link="658918300" /><![CDATA[Signal 'G5' type conversion may lose accuracy at connection 'IN']]></message>
+    <message status="warning" label="build" groupid="206502" id="179269250" classid="CmpNavigator">
+      <User scope="Worksheet7" name="master:inv" status="warning" link="638973724" /><![CDATA[Signal 'G1' type conversion may lose accuracy at connection 'IN']]></message>
+    <message status="warning" label="build" groupid="206502" id="756682796" classid="CmpNavigator">
+      <User scope="Worksheet7" name="master:peswitch" status="warning" link="1584915569" /><![CDATA[Signal 'G5' type conversion may lose accuracy at connection 'APUL']]></message>
+    <message status="warning" label="build" groupid="206502" id="748117053" classid="CmpNavigator">
+      <User scope="Worksheet7" name="master:peswitch" status="warning" link="1580854107" /><![CDATA[Signal 'G3' type conversion may lose accuracy at connection 'APUL']]></message>
+    <message status="warning" label="build" groupid="206502" id="1248224850" classid="CmpNavigator">
+      <User scope="Worksheet7" name="master:peswitch" status="warning" link="506523450" /><![CDATA[Signal 'G1' type conversion may lose accuracy at connection 'APUL']]></message>
+    <message status="normal" label="build" groupid="100006" link="1332375654" id="1332375654" classid="FileNavigator"><![CDATA[Generating 'C:\Users\kalim\OneDrive\Desktop\Y3\Individual Project\PSCAD\Worksheet circuits\Worksheet 5\Worksheet7.gf46\Worksheet7.map'.]]><file scope="Worksheet7">C:\Users\kalim\OneDrive\Desktop\Y3\Individual Project\PSCAD\Worksheet circuits\Worksheet 5\Worksheet7.gf46\Worksheet7.map</file></message>
+    <message status="normal" label="build" groupid="100015" scope="Worksheet7" id="1984662855" classid="MessageObj"><![CDATA[The total number of live nodes: 9]]></message>
+    <message status="normal" label="build" groupid="0" link="929513257" id="929513257" classid="FileNavigator"><![CDATA[Coding .mak file: 'C:\Users\kalim\OneDrive\Desktop\Y3\Individual Project\PSCAD\Worksheet circuits\Worksheet 5\Worksheet7.gf46\\Worksheet7.mak']]><file scope="Worksheet7">C:\Users\kalim\OneDrive\Desktop\Y3\Individual Project\PSCAD\Worksheet circuits\Worksheet 5\Worksheet7.gf46\\Worksheet7.mak</file></message>
+    <message status="normal" label="build" groupid="100001" scope="Worksheet7" id="2044400533" classid="MessageObj"><![CDATA[Non-professional licenses are limited to a single, electrical subsystem. Subsystem splitting has been internally disabled for this simulation.]]></message>
+    <message status="normal" label="build" groupid="400000" scope="Worksheet7" id="1182334873" classid="MessageObj"><![CDATA[Time for Compile: 6608ms  Make: 16ms]]></message>
+    <message status="normal" label="build" groupid="400000" scope="Worksheet7" id="1272355340" classid="MessageObj"><![CDATA[Solve Time = 78ms]]></message>
+    <message status="normal" label="build" groupid="100016" scope="Worksheet7" id="1054715304" classid="MessageObj"><![CDATA[Will execute (1): call C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat]]></message>
+    <message status="normal" label="build" groupid="100016" scope="Worksheet7" id="896742366" classid="MessageObj"><![CDATA[Will execute (1): call "C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat"]]></message>
+    <message status="normal" label="build" groupid="100016" scope="Worksheet7" id="2044003922" classid="MessageObj"><![CDATA[Will execute (2): make -j -f Worksheet7.mak]]></message>
+    <message status="normal" label="build" groupid="100016" scope="Worksheet7" id="1834971972" classid="MessageObj"><![CDATA[Will execute (2): "C:\Users\kalim\OneDrive\Desktop\Y3\Individual Project\PSCAD\Worksheet circuits\Worksheet 5\Worksheet7.gf46\Worksheet7_mak.bat"]]></message>
+    <message status="normal" label="build" groupid="100005" scope="Worksheet7" id="864778190" classid="MessageObj"><![CDATA[Creating EMTDC executable...]]></message>
+    <message status="normal" label="build" groupid="0" scope="Worksheet7" id="896071905" classid="MessageObj"><![CDATA[C:\Users\kalim\OneDrive\Desktop\Y3\Individual Project\PSCAD\Worksheet circuits\Worksheet 5\Worksheet7.gf46>call "C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat" ]]></message>
+    <message status="normal" label="build" groupid="100004" scope="Worksheet7" id="1800731359" classid="MessageObj"><![CDATA[Compiling 'Main.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="100013" scope="Worksheet7" id="267569514" classid="MessageObj"><![CDATA[Linking objects and libraries into binary 'Worksheet7.exe']]></message>
+    <message status="normal" label="build" groupid="400003" scope="Worksheet7" id="408699912" classid="MessageObj"><![CDATA[Finished compiling with PSCAD Version Free]]></message>
+    <message status="error" label="runtime" groupid="300008" scope="Worksheet7" id="253472642" classid="MessageObj"><![CDATA[Process has been terminated by user.]]></message>
+    <message status="warning" label="runtime" groupid="200009" scope="Worksheet7" id="23522228" classid="MessageObj"><![CDATA[Simulation ending on user request.]]></message>
+  </messagelist>
+  <ViewContext>
+    <Window defn="Worksheet7:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomscale="1.2" scrollx="0" scrolly="722" />
+  </List>
+  <Output device="EMTDC" version="2010" date="2026/04/28" time="12:01:38.000000">
+    <Domain name="Time" unit="s" mult="0.0" skew="0.0">
+      <Sample rate="200000.0" end="1000000" />
+    </Domain>
+    <List classid="Analog">
+      <Analog name="Main(0):Vtri" index="1" gindex="100663297" id="1213214629:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Pm" index="2" gindex="100663298" id="1385583109:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Vc" index="3" gindex="100663299" id="728430270:0" label="" dim="1" unit="kV" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Qm" index="4" gindex="100663300" id="724561038:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Vb" index="5" gindex="100663301" id="1521838593:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Ea" index="6" gindex="100663302" id="431636103:0" label="" dim="1" unit="kV" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Va" index="7" gindex="100663303" id="541745167:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Eb" index="8" gindex="100663304" id="18885578:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Ia" index="9" gindex="100663305" id="1391965927:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Ec" index="10" gindex="100663306" id="770599517:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Ib" index="11" gindex="100663307" id="2133488217:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Ic" index="12" gindex="100663308" id="1526350011:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Wmset" index="13" gindex="100663309" id="84812349:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):idset" index="14" gindex="100663310" id="2141111686:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):iqset" index="15" gindex="100663311" id="543025295:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):EconC" index="16" gindex="100663312" id="142161776:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):EconB" index="17" gindex="100663313" id="1744948080:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):We" index="18" gindex="100663314" id="613497912:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):EconA" index="19" gindex="100663315" id="702183755:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Eqset" index="20" gindex="100663316" id="639492339:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Te" index="21" gindex="100663317" id="293877440:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Iq" index="22" gindex="100663318" id="737567832:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):iq_star" index="23" gindex="100663319" id="1022776153:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Te_star" index="24" gindex="100663320" id="1835555722:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Edset" index="25" gindex="100663321" id="495850934:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):e" index="26" gindex="100663322" id="43192213:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Iq" index="27" gindex="100663323" id="1516709553:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):p" index="28" gindex="100663324" id="1425629864:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Id" index="29" gindex="100663325" id="1257183131:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Posn" index="30" gindex="100663326" id="1977458581:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Tm" index="31" gindex="100663327" id="1182606121:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Te" index="32" gindex="100663328" id="965763827:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Wm" index="33" gindex="100663329" id="830486220:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Vq" index="34" gindex="100663330" id="1927213095:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Vd" index="35" gindex="100663331" id="1459002682:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):q" index="36" gindex="100663332" id="1019327972:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):c_" index="37" gindex="100663333" id="361789151:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Ealphaset" index="38" gindex="100663334" id="1920191547:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):b" index="39" gindex="100663335" id="1778628520:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):s" index="40" gindex="100663336" id="751027835:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):c" index="41" gindex="100663337" id="1057108124:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):a" index="42" gindex="100663338" id="519641270:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Ebetaset" index="43" gindex="100663339" id="690025857:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):V_beta" index="44" gindex="100663340" id="501744311:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):V_alpha" index="45" gindex="100663341" id="237582829:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):theta" index="46" gindex="100663342" id="1096296896:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Wr" index="47" gindex="100663343" id="504473408:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):G4" index="48" gindex="100663344" id="1840597163:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):G3" index="49" gindex="100663345" id="2117937644:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):G6" index="50" gindex="100663346" id="1857259516:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Wslip" index="51" gindex="100663347" id="1812244615:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):G5" index="52" gindex="100663348" id="1003621509:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):I_beta" index="53" gindex="100663349" id="561702675:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):I_alpha" index="54" gindex="100663350" id="1305191862:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):G2" index="55" gindex="100663351" id="1869183404:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):We" index="56" gindex="100663352" id="1119934728:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):G1" index="57" gindex="100663353" id="982671275:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):V_dc" index="58" gindex="100663354" id="765909638:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    </List>
+    <List classid="Digital" />
+  </Output>
+</Meta>
